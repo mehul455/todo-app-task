@@ -7,3 +7,9 @@ cd todo-app
 Run the following command in the project directory:
 
 npm install
+
+after npm install
+
+npm run dev 
+
+run above command to start the project
